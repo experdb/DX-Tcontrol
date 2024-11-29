@@ -15,7 +15,7 @@
 		<spring-framework.version>5.2.13.RELEASE</spring-framework.version>
 	    <slf4j.version>1.7.32</slf4j.version>
 		<log4j.version>2.17.1</log4j.version>
-		<spring-security.version>5.2.8.RELEASE</spring-security.version>
+		<spring-security.version>5.5.7</spring-security.version>
 		<spring-batch.version>4.2.5.RELEASE</spring-batch.version>
 	</properties>
 
