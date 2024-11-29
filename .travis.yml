@@ -9,6 +9,5 @@ env:
 
 branches:
   only:
-    - master
-    
-
+    - develop
+    # - master
